@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Victory",
+    "artist": "Thomas Bergersen",
+    "album": "Battle Cry",
+    "release": "2006",
+    "image": "victory.png"
+  },
+  {
+    "id": 2,
+    "name": "One Million Voices",
+    "artist": "Thomas Bergersen",
+    "album": "Humanity Chapter 1",
+    "release": "2021",
+    "image": "onemillions.png"
+  },
+  {
+    "id": 3,
+    "name": "Unbreakable",
+    "artist": "Thomas Bergersen",
+    "album": "Dragon",
+    "release": "2019",
+    "image": "unbreakable.png"
+  },
+  {
+    "id": 4,
+    "name": "Mountain Call",
+    "artist": "Thomas Bergersen",
+    "album": "Humanity Chapter 1",
+    "release": "2020",
+    "image": "Mountaincall.png"
+  },
+  {
+    "id": 5,
+    "name": "Star Sky",
+    "artist": "Thomas Bergersen",
+    "album": "Battle Cry",
+    "release": "2006",
+    "image": "starsky.png"
+  }
+]
