@@ -5,7 +5,7 @@
     "artist": "Thomas Bergersen",
     "album": "Battle Cry",
     "release": "2006",
-    "image": "victory.png"
+    "image": "victory.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "artist": "Thomas Bergersen",
     "album": "Humanity Chapter 1",
     "release": "2021",
-    "image": "onemillions.png"
+    "image": "onemilions.png"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "artist": "Thomas Bergersen",
     "album": "Dragon",
     "release": "2019",
-    "image": "unbreakable.png"
+    "image": "unbreakable.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "artist": "Thomas Bergersen",
     "album": "Humanity Chapter 1",
     "release": "2020",
-    "image": "Mountaincall.png"
+    "image": "Mountaincall.jpg"
   },
   {
     "id": 5,
@@ -37,6 +37,6 @@
     "artist": "Thomas Bergersen",
     "album": "Battle Cry",
     "release": "2006",
-    "image": "starsky.png"
+    "image": "starsky.jpg"
   }
 ]
