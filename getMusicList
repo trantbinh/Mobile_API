@@ -28,12 +28,12 @@
   },
   {
     "id": 4,
-    "name": "Mountain Call",
+    "name": "Apollo",
     "artist": "Thomas Bergersen",
-    "album": "Humanity Chapter 1",
-    "release": "2020",
+    "album": "Humanity Chapter IV",
+    "release": "2021",
     "image": "moutaincall.jpg",
-    "namesound": "mountaincall.flac"
+    "namesound": "apollo.mp3"
   },
   {
     "id": 5,
