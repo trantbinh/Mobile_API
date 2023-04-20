@@ -6,7 +6,7 @@
     "album": "Battle Cry",
     "release": "2006",
     "image": "victory.jpg",
-    "namesound": "ACommeAmour.mp3"
+    "namesound": "victory.mp3"
   },
   {
     "id": 2,
@@ -15,16 +15,16 @@
     "album": "Humanity Chapter 1",
     "release": "2021",
     "image": "onemilions.png",
-    "namesound": "ATimeForUs.mp3"
+    "namesound": "onemillions.mp3"
   },
   {
     "id": 3,
-    "name": "Unbreakable",
+    "name": "Emerald Princess",
     "artist": "Thomas Bergersen",
     "album": "Dragon",
     "release": "2019",
-    "image": "unbreakable.jpg",
-    "namesound": "BeethovenVirus.mp3"
+    "image": "emeraldprincess.jpg",
+    "namesound": "emeraldprincess.mp3"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "album": "Humanity Chapter 1",
     "release": "2020",
     "image": "moutaincall.jpg",
-    "namesound": "LoveStory.mp3"
+    "namesound": "mountaincall.flac"
   },
   {
     "id": 5,
@@ -42,6 +42,6 @@
     "album": "Battle Cry",
     "release": "2006",
     "image": "starsky.jpg",
-    "namesound": "Snowdream.mp3"
+    "namesound": "starsky.mp3"
   }
 ]
